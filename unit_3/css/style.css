@@ -3,9 +3,12 @@ body {
 	font-family: Helvetica;
 	text-align: center;
 }
+h1 {
+	color: #0B7DC1;
+}
 
 p {
-	background: URL("https://mi621.files.wordpress.com/2015/01/internet-2025.jpg");
+	background-image: URL("https://mi621.files.wordpress.com/2015/01/internet-2025.jpg");
 	background-size: cover;
 }
 
