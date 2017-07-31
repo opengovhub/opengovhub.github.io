@@ -1,0 +1,14 @@
+body {
+	color: white;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+p {
+	background: URL("https://mi621.files.wordpress.com/2015/01/internet-2025.jpg");
+	background-size: cover;
+}
+
+#slogan {
+	font-style: italic;
+}
