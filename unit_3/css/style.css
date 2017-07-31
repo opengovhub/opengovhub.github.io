@@ -1,12 +1,13 @@
 body {
 	background-image: url("https://mi621.files.wordpress.com/2015/01/internet-2025.jpg");*/
-	background-size: cover;*/
-	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
 	font-family: Helvetica;
 	text-align: center;
 }
 h1 {
-	color: #0B7DC1;
+	color: #2046A8;
 }
 
 #slogan {
@@ -17,5 +18,8 @@ ul{
 	list-style-type: none;
 }
 #events {
+	text-align: left;
+}
+#collborationoverivew {
 	text-align: left;
 }
