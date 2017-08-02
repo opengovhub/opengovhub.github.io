@@ -9,21 +9,29 @@ body {
 }
 h1 {
 	color: #2046A8;
+	padding-top: 150px;
 }
 
 #slogan {
 	font-style: italic;
+	padding-top: 50px;
 }
 ul{
 	text-align: center;
 	list-style-type: none;
+	padding-top: 200px
+	padding-bottom: 50px;
 }
 #events {
 	text-align: left;
 }
 #collborationoverivew {
 	text-align: left;
+	padding-top: 50px;
 }
-div {
+#learnwithus {
+	padding: 50px 30px 50px 80px;
+}
+#exploreourcommunity {
 	padding: 50px 30px 50px 80px;
 }
