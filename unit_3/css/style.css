@@ -3,7 +3,7 @@ body {
 	font-family: Helvetica;
 	text-align: center;
 }
-#abovethefold {
+p #abovethefold {
 	background-image: url("http://usi32.com/wp-content/uploads/2016/10/WorldWideWeb.jpg");
 	background-image: rgba(11,125,193,.3);
 	background-size: cover;
