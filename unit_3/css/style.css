@@ -1,11 +1,13 @@
 body {
+	color: white;
+	font-family: Helvetica;
+	text-align: center;
+}
+#abovethefold {
 	background-image: url("http://usi32.com/wp-content/uploads/2016/10/WorldWideWeb.jpg");
 	background-image: rgba(11,125,193,.3);
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: white;
-	font-family: Helvetica;
-	text-align: center;
 }
 h1 {
 	color: #2046A8;
@@ -30,9 +32,6 @@ ul{
 	text-align: left;
 	padding-top: 50px;
 }
-#learnwithus {
-	padding: 50px 30px 50px 80px;
-}
-#exploreourcommunity {
+#calltoaction {
 	padding: 50px 30px 50px 80px;
 }
