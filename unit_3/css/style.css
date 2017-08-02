@@ -1,5 +1,6 @@
 body {
-	background-image: linear-gradient(#000, #0b7dc1), url("https://mi621.files.wordpress.com/2015/01/internet-2025.jpg");
+	background-image: url("https://mi621.files.wordpress.com/2015/01/internet-2025.jpg");
+	background: rgba(11,125,193,.3);
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
