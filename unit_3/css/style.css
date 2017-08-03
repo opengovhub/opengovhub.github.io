@@ -1,29 +1,37 @@
 body {
-	background-color: rgba(11,125,193,.3);
-	color: white;
+	background-color: white;
+	color: grey;
 	font-family: Helvetica;
-	text-align: center;
-}
+	}
 #abovethefold{
-	background-image: url("http://usi32.com/wp-content/uploads/2016/10/WorldWideWeb.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
+	/*background-image: url("http://usi32.com/wp-content/uploads/2016/10/WorldWideWeb.jpg");*/
+	/*background-size: cover;*/
+	/*background-repeat: no-repeat;*/
+}
+img {
+	background-color: rgba(11,125,193,.3)
 }
 	h1 {
 		color: #2046A8;
-		padding-top: 550px;
 		font-family: Verdana;
+		text-align: center
+		padding-top: 350px;
 	}
 	#slogan{
+		font-size: 25px;
 		font-style: italic;
+		text-align: center
 		padding-top: 50px;
 	}
 	#calltoaction{
-	padding: 50px 30px 50px 80px;
+		font-size: 18px;
+		text-align: center;
+		padding: 50px 30px 50px 80px;
 	}
 h2{
 	color:rgb(11,125,193);  
 	font-family: Verdana;
+	padding-top: 100px;
 }
 #collborationoverivew{
 	text-align: left;
@@ -32,16 +40,17 @@ h2{
 ul{
 	text-align: center;
 	list-style-type: none;
-	padding-top: 200px
+	padding-top: 100px
 	padding-bottom: 50px;
 }
 #partnerwithus{
-	text-align: right;
+	text-align: center;
 	padding-top: 150px;
 	padding-left: 150px;
 }
 #events{
 	text-align: left;
+	padding-top: 100px;
 }
 
 
