@@ -12,7 +12,8 @@ body {
 	h1 {
 		color: #2046A8;
 		font-family: Verdana;
-		text-align: center
+		text-align: center;
+		text-transform: uppercase;
 		padding-top: 350px;
 	}
 	#slogan{
@@ -39,7 +40,7 @@ ul{
 	text-align: center;
 	list-style-type: none;
 	padding-top: 100px
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 #partnerwithus{
 	text-align: center;
@@ -49,6 +50,7 @@ ul{
 #events{
 	text-align: left;
 	padding-top: 100px;
+	padding-bottom: 80px;
 }
 
 
