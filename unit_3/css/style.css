@@ -19,15 +19,21 @@ a {
 h1 {
 	color: #2046A8;
 	font-family: Verdana;
-		ont-size: 50px;
+	font-size: 50px;
 	text-align: center;
 	text-transform: uppercase;
 	padding-top: 50px;
 }
+img {
+	width: 100%;
+}
+h2{
+	color:rgb(11,125,193);  
+	font-family: Verdana;
+	padding-top: 100px;
+}
 section{
-color:rgb(11,125,193);  
-font-family: Verdana;
-padding-top: 100px;
+	text-align: center;
 }
 ul{
 	text-align: left;
@@ -36,7 +42,7 @@ ul{
 	padding-bottom: 20px;
 }
 footer{
-	background-color: rgb(11, 125, 193);
+	background-color: #83c341;
 	padding: 20px;
 	text-align: center;
 }
@@ -44,12 +50,12 @@ footer{
 	font-size: 20px;
 	font-style: italic;
 	text-align: center
-	padding-top: 50px;
+	padding-top: 50px 20px 20px 20px;
 }
 #calltoaction{
 	font-size: 18px;
 	text-align: center;
-	padding: 30px 30px 50px 80px;
+	padding: 30px 30px 50px;
 }
 #collborationoverivew{
 	float: left;
