@@ -8,40 +8,26 @@ body {
 	font-family: Helvetica;
 	font-size: 16px;
 }
-	nav a {
-		color: rgb(11, 125, 193);
-		margin-right: 20px;
-	}
-	a { 
-		color: black;
-		text-decoration: none;
-	}
-	h1 {
-		color: #2046A8;
-		font-family: Verdana;
-		text-align: center;
-		text-transform: uppercase;
-		padding-top: 50px;
-	}
-	#slogan{
-		font-size: 25px;
-		font-style: italic;
-		text-align: center
-		padding-top: 50px;
-	}
-	#calltoaction{
-		font-size: 18px;
-		text-align: center;
-		padding: 30px 30px 50px 80px;
-	}
-section{
-	color:rgb(11,125,193);  
-	font-family: Verdana;
-	padding-top: 100px;
+nav a {
+	color: rgb(11, 125, 193);
+	margin-right: 20px;
 }
-#collborationoverivew{
-	float: left;
-	padding-top: 150px;
+a { 
+	color: rgb(11, 125, 193);
+	text-decoration: none;
+}
+h1 {
+	color: #2046A8;
+	font-family: Verdana;
+		ont-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 50px;
+}
+section{
+color:rgb(11,125,193);  
+font-family: Verdana;
+padding-top: 100px;
 }
 ul{
 	text-align: left;
@@ -49,14 +35,29 @@ ul{
 	padding-top: 100px
 	padding-bottom: 20px;
 }
-#partnerwithus{
-	float: right;
-}
 footer{
 	background-color: rgb(11, 125, 193);
 	padding: 20px;
 	text-align: center;
 }
+#slogan{
+	font-size: 20px;
+	font-style: italic;
+	text-align: center
+	padding-top: 50px;
+}
+#calltoaction{
+	font-size: 18px;
+	text-align: center;
+	padding: 30px 30px 50px 80px;
+}
+#collborationoverivew{
+	float: left;
+}
+#partnerwithus{
+	float: right;
+}
+
 
 
 
