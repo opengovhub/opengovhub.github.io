@@ -2,18 +2,20 @@
 	padding: 0
 	margin: 0;
 }
-
 body {
 	background-color: white;
-	color: grey;
+	color: #222;
 	font-family: Helvetica;
-	}
-#abovethefold{
-	/*background-image: url("http://usi32.com/wp-content/uploads/2016/10/WorldWideWeb.jpg");*/
-	/*background-size: cover;*/
-	/*background-repeat: no-repeat;*/
-	text-align: center;
+	font-size: 16px;
 }
+	nav a {
+		color: rgb(11, 125, 193);
+		margin-right: 20px;
+	}
+	a { 
+		color: black;
+		text-decoration: none;
+	}
 	h1 {
 		color: #2046A8;
 		font-family: Verdana;
@@ -32,13 +34,13 @@ body {
 		text-align: center;
 		padding: 30px 30px 50px 80px;
 	}
-h2{
+section{
 	color:rgb(11,125,193);  
 	font-family: Verdana;
 	padding-top: 100px;
 }
 #collborationoverivew{
-	text-align: left;
+	float: left;
 	padding-top: 150px;
 }
 ul{
@@ -48,14 +50,16 @@ ul{
 	padding-bottom: 20px;
 }
 #partnerwithus{
-	text-align: left;
+	float: right;
 	padding-top: 150px;
 	padding-left: 150px;
 }
-#events{
-	text-align: left;
-	padding-top: 100px;
-	padding-bottom: 80px;
+footer{
+	background-color: rgb(11, 125, 193);
+	padding: 20px;
+	text-align: center;
 }
+
+
 
 
