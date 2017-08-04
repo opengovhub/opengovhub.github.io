@@ -25,7 +25,7 @@ h1 {
 	padding-top: 50px;
 }
 img {
-	width: 60%;
+	height: 50%;
 }
 h2{
 	color:rgb(11,125,193);  
@@ -46,13 +46,13 @@ footer{
 	padding: 20px;
 	text-align: center;
 }
-#slogan{
+.slogan{
 	font-size: 20px;
 	font-style: italic;
 	text-align: center
 	padding-top: 50px 20px 20px 20px;
 }
-#calltoaction{
+.calltoaction{
 	font-size: 18px;
 	text-align: center;
 	padding: 30px 30px 50px;
