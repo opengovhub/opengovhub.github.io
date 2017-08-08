@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
 * {
 	padding: 0
 	margin: 0;
@@ -6,7 +9,7 @@ body {
 	background-color: white;
 	color: #222;
 	font-family: Helvetica;
-	font-size: 16px;
+	font-size: 1em; 
 }
 nav a {
 	color: rgb(11, 125, 193);
@@ -18,19 +21,27 @@ a {
 }
 h1 {
 	color: #2046A8;
-	font-family: Verdana;
-	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'black 900';
+	font-variant: small-caps;
+	font-size: 4em;
 	text-align: center;
-	text-transform: uppercase;
 	padding-top: 50px;
-}
-img {
-	width: 100%;
 }
 h2{
 	color:rgb(11,125,193);  
-	font-family: Verdana;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'medium 500';
+	font-size: 3em;
 	padding-top: 100px;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'regular 400';
+	font-size: 2em;
+}
+img {
+	width: 100%;
 }
 section{
 	text-align: center;
