@@ -25,6 +25,7 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'black 900';
 	text-transform: uppercase;
+	letter-spacing: 2px;
 	font-size: 4em;
 	text-align: center;
 	padding-top: 50px;
@@ -48,6 +49,7 @@ section{
 	text-align: center;
 }
 ul{
+	line-height: 1.5em;
 	text-align: center;
 	list-style-type: none;
 	padding-top: 100px
