@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 * {
 	padding: 0
@@ -6,7 +8,8 @@
 body {
 	background-color: white;
 	color: #222;
-	font-family: Times;
+	font-family: 'Merriweather', Times;
+	font-variant: 'light 300'
 	font-size: 1em; 
 }
 nav a {
@@ -19,7 +22,8 @@ a {
 }
 h1 {
 	color: #2046A8;
-	font-family: Verdana, sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'black 900';
 	text-transform: uppercase;
 	font-size: 4em;
 	text-align: center;
@@ -27,12 +31,14 @@ h1 {
 }
 h2{
 	color:rgb(11,125,193);  
-	font-family: Verdana, sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'medium 500';
 	font-size: 3em;
 	padding-top: 100px;
 }
 h3 {
-	font-family: Verdana, sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'regular 400';
 	font-size: 2em;
 }
 img {
