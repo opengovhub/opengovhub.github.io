@@ -31,14 +31,14 @@ h1 {
 	letter-spacing: 2px;
 	font-size: 4em;
 	text-align: center;
-	padding-top: 2.5em;
+	padding-top: 2em;
 }
 h2{
 	color:rgb(11,125,193);  
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'medium 500';
 	font-size: 3em;
-	padding-top: 6em;
+	padding-top: 3em;
 }
 h3 {
 	font-family: 'Roboto', sans-serif;
@@ -61,7 +61,6 @@ ul{
 	line-height: 2em;
 	text-align: center;
 	list-style-type: none;
-	padding-top: 6em
 	padding-bottom: 1em;
 }
 footer{
