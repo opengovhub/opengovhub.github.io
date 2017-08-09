@@ -41,15 +41,15 @@ h2{
 	padding-top: 3em;
 }
 h3 {
-	color: #0b7dc1;
+	color: #302E33;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'regular 400';
 	font-size: 2em;
 	text-align: center;
 }
 p {
-	width: 30em;
-	line-height: 2em;
+	width: 20em;
+	line-height: 1.75em;
 	margin: auto;
 }
 img {
@@ -59,7 +59,7 @@ section{
 	text-align: center;
 }
 ul{
-	line-height: 2em;
+	line-height: 1.75em;
 	text-align: center;
 	list-style-type: none;
 	padding-bottom: 1em;
@@ -78,6 +78,8 @@ footer{
 	font-size: 1.5em;
 	text-align: center;
 	padding: .5em;
+	border-color: #de4526;
+	border-width: 1px;
 }
 
 
