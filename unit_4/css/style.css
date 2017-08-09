@@ -15,6 +15,7 @@ body {
 nav a {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'regular 400';
+	font-size: 1.5em;
 	color: ##f5b51e;
 	font-variant: small-caps;
 	text-align: right;
@@ -85,6 +86,7 @@ footer{
 	border-color: #de4526;
 	border-width: 1px;
 	width: 30em;
+	align-content: center; 
 }
 .footerlinks{
 	margin-right: 1.5em;
