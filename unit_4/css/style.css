@@ -59,6 +59,7 @@ section{
 	text-align: center;
 }
 ul{
+	width: 20em;
 	line-height: 1.75em;
 	text-align: center;
 	list-style-type: none;
