@@ -13,8 +13,8 @@ body {
 	font-size: 16px; /*16px=1em */
 }
 nav a {
-	color: #de4536;
-	text-transform: uppercase;
+	color: ##f5b51e;
+	font-variant: small-caps;
 	text-align: right;
 	padding: 1.5em;
 	margin-right: 2em;
@@ -64,9 +64,8 @@ ul{
 	padding-bottom: 1em;
 }
 footer{
-	background-color: #;
+	background-color: ##5F5F5F;
 	padding: 2.5em;
-	margin-right: 2.5em;
 	text-align: center;
 }
 .slogan{
@@ -84,7 +83,9 @@ footer{
 	border-color: #de4526;
 	border-width: 1px;
 }
-
+.footerlinks{
+	margin-right: 1.5em;
+}
 
 
 
