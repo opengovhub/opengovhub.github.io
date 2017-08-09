@@ -7,7 +7,7 @@
 }
 body {
 	background-color: white;
-	color: #302E33;
+	color: #5F5F5F;
 	font-family: 'Merriweather', Times;
 	font-variant: 'light 300'
 	font-size: 16px; /*16px=1em */
@@ -24,7 +24,7 @@ a {
 	text-decoration: none;
 }
 h1 {
-	color: #074e78;
+	color: #0b7dc1;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'black 900';
 	letter-spacing: 2px;
@@ -40,7 +40,7 @@ h2{
 	padding-top: 3em;
 }
 h3 {
-	color: #302E33;
+	color: ##053e5f;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'regular 400';
 	font-size: 2em;
@@ -60,7 +60,6 @@ section{
 ul{
 	line-height: 1.75em;
 	text-align: center;
-	width: 40em;
 	list-style-type: none;
 	padding-bottom: 1em;
 }
@@ -78,8 +77,10 @@ footer{
 	font-family: 'Merriweather', Times;
 	font-weight: 'light 300'
 	font-size: 1.5em;
+	color: #5F5F5F;
 	text-align: center;
 	padding: .5em;
+	border: solid;
 	border-color: #de4526;
 	border-width: 1px;
 }
