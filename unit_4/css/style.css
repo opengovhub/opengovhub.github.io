@@ -27,7 +27,6 @@ h1 {
 	color: #074e78;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 'black 900';
-	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 4em;
 	text-align: center;
@@ -48,7 +47,7 @@ h3 {
 	text-align: center;
 }
 p {
-	width: 20em;
+	width: 40em;
 	line-height: 1.75em;
 	margin: auto;
 }
@@ -59,9 +58,9 @@ section{
 	text-align: center;
 }
 ul{
-	width: 20em;
 	line-height: 1.75em;
 	text-align: center;
+	width: 40em;
 	list-style-type: none;
 	padding-bottom: 1em;
 }
@@ -76,6 +75,8 @@ footer{
 	padding-top: 4em 1em 1em 1em;
 }
 .calltoaction{
+	font-family: 'Merriweather', Times;
+	font-weight: 'light 300'
 	font-size: 1.5em;
 	text-align: center;
 	padding: .5em;
