@@ -13,6 +13,8 @@ body {
 	font-size: 16px; /*16px=1em */
 }
 nav a {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'regular 400';
 	color: ##f5b51e;
 	font-variant: small-caps;
 	text-align: right;
