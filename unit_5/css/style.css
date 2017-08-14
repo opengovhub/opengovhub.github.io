@@ -93,8 +93,13 @@ footer{
 .footerlinks{
 	margin-right: 1.5em;
 }
-.events{
+#event1{
+	float: left;
+	width: 25em;
+}
+#event2{
 	float: right;
+	width: 25em;
 }
 
 
