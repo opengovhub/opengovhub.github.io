@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+* {
+	padding: 0
+	margin: 0;
+}
+body {
+	background-color: white;
+	color: #5F5F5F;
+	font-family: 'Merriweather', Times;
+	font-variant: 'light 300'
+	font-size: 16px; /*16px=1em */
+}
+nav a {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'regular 400';
+	font-size: 1.5em;
+	color: ##f5b51e;
+	font-variant: small-caps;
+	text-align: right;
+	padding: 1.5em;
+	margin-right: 2em;
+}
+a { 
+	color: #f5b51e;
+	text-decoration: none;
+}
+h1 {
+	color: #0b7dc1;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'black 900';
+	letter-spacing: 2px;
+	font-size: 4em;
+	text-align: center;
+	padding-top: 2em;
+}
+h2{
+	color: #f5b51e;  
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'medium 500';
+	font-size: 3em;
+	padding-top: 3em;
+}
+h3 {
+	color: ##053e5f;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 'regular 400';
+	font-size: 2em;
+	text-align: center;
+}
+p {
+	width: 40em;
+	line-height: 1.75em;
+	margin: auto;
+}
+img {
+	width: 100%;
+}
+section{
+	text-align: center;
+}
+ul{
+	line-height: 1.75em;
+	text-align: center;
+	list-style-type: none;
+	padding-bottom: 1em;
+}
+footer{
+	background-color: ##5F5F5F;
+	padding: 2.5em;
+	text-align: center;
+}
+.slogan{
+	text-align: center
+	padding-top: 4em 1em 1em 1em;
+}
+.calltoaction{
+	font-family: 'Merriweather', Times;
+	font-weight: 'light 300'
+	font-size: 1.5em;
+	color: #5F5F5F;
+	text-align: center;
+	padding: 1.5em;
+	border: solid;
+	border-color: #de4526;
+	border-width: 1px;
+	width: 30em;
+	align-content: center; 
+}
+.footerlinks{
+	margin-right: 1.5em;
+}
+.events{
+	float: right;
+}
+
+
+
+
