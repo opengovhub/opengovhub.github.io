@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 * {
-	padding: 0
+	padding: 0;
 	margin: 0;
+	box-sizing: border-box;
 }
 body {
 	background-color: white;
@@ -50,22 +51,20 @@ h3 {
 	text-align: center;
 }
 p {
-	width: 40em;
 	line-height: 1.75em;
-	margin: auto;
 	font-size: 1em;
 }
 img {
 	width: 100%;
 }
 section{
-	text-align: center;
+	/* text-align: center; */
 }
 ul{
 	line-height: 1.75em;
-	text-align: center;
+	/* text-align: center; */
 	list-style-type: none;
-	padding-bottom: 1em;
+	padding: 0 0 1em;
 	font-size: 1em;
 }
 footer{
@@ -84,16 +83,14 @@ footer{
 }
 #calltoaction1{
 	font-family: 'Merriweather', Times;
-	font-weight: 'light 300'
-	font-size: 1.5em;
+	font-weight: 300;
 	color: #5F5F5F;
 	text-align: center;
-	padding: 1em;
-	border: solid;
-	border-color: #de4526;
-	border-width: 2px;
-	width: 15em;
-	margin: 2.5em auto 2.5em auto; 
+	/* padding: 1em; */
+	/* border: solid; */
+	/* border-width: 2px; */
+	width: 30em;
+	margin: 2.5em auto 2.5em auto;
 }
 #calltoaction2{
 	font-family: 'Merriweather', Times;
@@ -112,11 +109,23 @@ footer{
 	float: left;
 	width: 25em;
 }
-#event2{
-	float: right;
-	width: 25em;
+.event1{
+	float: left;
+	width: 50%;
+	padding: 1em;
 }
 
 
+#change {
+    width: 40em;
+    margin: auto;
+}
 
+#calltoaction1 a {
+    border: #de4526 2px solid;
+    color: inherit;
+    display: block;
+    padding: 2em;
+    margin: 1em;
+}
 
