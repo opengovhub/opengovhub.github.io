@@ -87,7 +87,7 @@ footer{
 	border-color: #de4526;
 	border-width: 1px;
 	width: 30em;
-	align-content: center; 
+	margin: 0 auto; 
 }
 .footerlinks{
 	margin-right: 1.5em;
