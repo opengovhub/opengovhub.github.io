@@ -76,6 +76,8 @@ footer{
 .slogan{
 	text-align: center
 	padding-top: 4em 1em 1em 1em;
+	width: 40em;
+	margin: 0 auto;
 }
 .footerlinks{
 	margin-right: 1.5em;
