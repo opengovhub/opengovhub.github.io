@@ -91,6 +91,8 @@ aside {
 	background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 40em;
 }
 footer{
 	background-color: #ff957e;
@@ -129,7 +131,7 @@ footer a {
 	width: 15em;
 	margin: 2.5em auto 2.5em auto;
 }
-.events{
+/*.events{*/
 	float: left;
 	width: 40em;
 	padding: 1em;
